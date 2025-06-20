@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React,MongoDB,Express**
+- 💬 Ask me about **Java,React,MongoDB,Express**
 
 - 📫 How to reach me **sensaheli1234@gmail.com**
 
