@@ -1,6 +1,6 @@
 [![MasterHead](https://www.qedgetech.com/wp-content/uploads/java-fullstack.jpg)]
 <h1 align="center">Hi Developers👋, I'm Saheli Sen</h1>
-<h3 align="center">A passionate Full stack Developer looking for a opportunity to grab an internship.</h3>
+<h3 align="center">A passionate Full stack Developer working at Accenture</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahelisen-git&label=Profile%20views&color=0e75b6&style=flat" alt="sahelisen-git" /> </p>
